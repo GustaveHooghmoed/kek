@@ -1,0 +1,8 @@
+C:\Users\Michel\RiderProjects\ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.csprojResolveAssemblyReference.cache
+C:\Users\Michel\RiderProjects\ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.csproj.CoreCompileInputs.cache
+C:\Users\Michel\RiderProjects\ConsoleApplication\ConsoleApplication\bin\Debug\Aquanura Developement Program.exe
+C:\Users\Michel\RiderProjects\ConsoleApplication\ConsoleApplication\bin\Debug\Aquanura Developement Program.pdb
+C:\Users\Michel\RiderProjects\ConsoleApplication\ConsoleApplication\obj\Debug\Aquanura Developement Program.exe
+C:\Users\Michel\RiderProjects\ConsoleApplication\ConsoleApplication\obj\Debug\Aquanura Developement Program.pdb
+C:\Users\Michel\RiderProjects\ConsoleApplication\ConsoleApplication\bin\Debug\Aquanura Developement Program.exe.config
+C:\Users\Michel\RiderProjects\ConsoleApplication\ConsoleApplication\bin\Debug\MySql.Data.dll

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Michel\.Rider2017.2\system\resharper-host\local\Transient\ReSharperHost\v10\SolutionCaches\_ConsoleApplication.997856525.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Michel\RiderProjects\ConsoleApplication" t="IncludeFlat">
+      <e p="ConsoleApplication" t="IncludeRecursive">
+        <e p="app.config" t="Include" />
+        <e p="AquaSharp" t="Include">
+          <e p="mysql" t="Include">
+            <e p="DBConnection.cs" t="Include" />
+          </e>
+          <e p="Utils" t="Include">
+            <e p="Logger.cs" t="Include" />
+            <e p="Point.cs" t="Include" />
+          </e>
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="ConsoleApplication.csproj" t="IncludeRecursive" />
+        <e p="docs" t="Include">
+          <e p="MySqlCommand.xml" t="Include" />
+          <e p="MySqlCommandBuilder.xml" t="Include" />
+          <e p="MySqlConnection.xml" t="Include" />
+          <e p="MySqlConnectionStringBuilder.xml" t="Include" />
+          <e p="MySqlDataAdapter.xml" t="Include" />
+          <e p="MySqlDataReader.xml" t="Include" />
+          <e p="MySqlException.xml" t="Include" />
+          <e p="MySqlHelper.xml" t="Include" />
+          <e p="MySqlParameter.xml" t="Include" />
+          <e p="MySqlParameterCollection.xml" t="Include" />
+          <e p="MySqlTransaction.xml" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+      </e>
+      <e p="ConsoleApplication.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
